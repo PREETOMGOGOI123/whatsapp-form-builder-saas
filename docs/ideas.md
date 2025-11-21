@@ -1,0 +1,4 @@
+- Trying out the concept of a WhatsApp form builder.
+- Want to learn more about APIs, webhooks, and databases.
+- Thinking about building dynamic form steps.
+- Exploring payment integration later.
